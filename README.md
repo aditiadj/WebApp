@@ -7,7 +7,8 @@ Software you must installed:
 You can start in your locally, follow this steps :
 1. ``` git clone https://github.com/aditiadj/WebApp ``` in terminal
 2. ``` cd WebApp ```
-3. ``` Start Debugging (F5) in your browser (Automatically)```
+3. ``` Open Microsoft Visual Studio, and open the project directory ```
+4. ``` Start Debugging (F5) in Microsoft Visual Studio (Automatically open your browser) ```
 
 #### Tech Stack
 1. C#
